@@ -22,6 +22,8 @@ Linux-EC2-Hardening-and-Ops/
   └── phase1–phase5/
 ```
 
+---
+
 ## Key Objectives
 
 - Secure access using **SSM Session Manager**
