@@ -47,8 +47,6 @@ This project is designed to align with:
 - **Cleanup Guide:** [docs/cleanup.md](./docs/cleanup.md)
 - **Cost Estimate:** [docs/cost-estimate.md](./docs/cost-estimate.md)
 
-Each document includes console steps, terminal commands, and screenshots.
-
 ---
 
 ## Skills Demonstrated
