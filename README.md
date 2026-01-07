@@ -5,7 +5,7 @@
 This project demonstrates **secure operation and basic hardening of a Linux EC2 instance** on AWS.  
 The focus is on **operational discipline**, **least privilege**, and **safe system administration**, rather than advanced automation.
 
-The instance is accessed **exclusively via AWS Systems Manager (SSM)** — no SSH keys, no inbound ports
+The instance is accessed **exclusively via AWS Systems Manager (SSM)** — no SSH keys, no inbound ports.
 
 ---
 
