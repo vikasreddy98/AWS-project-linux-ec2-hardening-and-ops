@@ -1,1 +1,42 @@
+# Validation Checklist
+
+This document confirms that all security and operational objectives were met.
+
+---
+
+## Access & Identity
+- EC2 accessed via SSM only
+- No SSH keys or inbound ports
+- Non-root admin user created
+- Controlled sudo access verified
+
+---
+
+## Services & Logs
+- Critical services inspected
+- Service restarts validated
+- Logs accessed using `journalctl`
+
+---
+
+## Filesystem & Permissions
+- Ownership and permissions applied correctly
+- Permission enforcement verified
+- Disk usage inspected
+
+---
+
+## Hardening
+- Automatic updates enabled
+- Root password login disabled
+- No unnecessary services exposed
+
+---
+
+## Cost & Safety
+- Instance terminated after completion
+- No Elastic IPs allocated
+- IAM role removed
+
+**All validations passed**
 
