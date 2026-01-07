@@ -10,7 +10,7 @@ The instance is accessed **exclusively via AWS Systems Manager (SSM)** — no SS
 ---
 
 ## Repository Structure
-`
+```
 Linux-EC2-Hardening-and-Ops/
 ├── README.md
 ├── docs/
@@ -20,7 +20,7 @@ Linux-EC2-Hardening-and-Ops/
 │ └── cost-estimate.md
 └── screenshots/
   └── phase1–phase5/
-`
+```
 
 ## Key Objectives
 
