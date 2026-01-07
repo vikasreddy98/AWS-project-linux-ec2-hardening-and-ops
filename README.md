@@ -9,6 +9,19 @@ The instance is accessed **exclusively via AWS Systems Manager (SSM)** — no SS
 
 ---
 
+## Repository Structure
+`
+Linux-EC2-Hardening-and-Ops/
+├── README.md
+├── docs/
+│ ├── howto.md
+│ ├── validation.md
+│ ├── cleanup.md
+│ └── cost-estimate.md
+└── screenshots/
+  └── phase1–phase5/
+`
+
 ## Key Objectives
 
 - Secure access using **SSM Session Manager**
