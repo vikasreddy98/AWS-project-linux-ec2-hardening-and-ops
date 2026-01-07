@@ -38,4 +38,4 @@ This document confirms that all security and operational objectives were met.
 - No Elastic IPs allocated
 - IAM role removed
 
-✅ **All validations passed**
+**All validations passed**
