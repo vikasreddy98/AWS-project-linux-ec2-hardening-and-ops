@@ -24,6 +24,9 @@ This document outlines the step-by-step implementation of the Linux EC2 Hardenin
 - Verified controlled privilege escalation
 - Locked unused default user access
 
+[Phase 2 Screenshots](https://github.com/vikasreddy98/AWS-project-linux-ec2-hardening-and-ops/tree/7700012f225fc5b9084cc04aa2067bf27095e05f/screenshots/Phase%202)
+
+
 ---
 
 ## Phase 3 — Services, Processes & Logs
@@ -33,6 +36,8 @@ This document outlines the step-by-step implementation of the Linux EC2 Hardenin
 - Restarted and validated SSM agent
 - Inspected logs using `journalctl`
 - Verified outbound network connectivity
+
+[Phase 3 Screenshots](https://github.com/vikasreddy98/AWS-project-linux-ec2-hardening-and-ops/tree/7700012f225fc5b9084cc04aa2067bf27095e05f/screenshots/Phase%203)
 
 ---
 
@@ -44,6 +49,8 @@ This document outlines the step-by-step implementation of the Linux EC2 Hardenin
 - Verified permission enforcement
 - Checked disk usage
 
+[Phase 4 Screenshots](https://github.com/vikasreddy98/AWS-project-linux-ec2-hardening-and-ops/tree/7700012f225fc5b9084cc04aa2067bf27095e05f/screenshots/Phase%204)
+
 ---
 
 ## Phase 5 — Basic Hardening
@@ -54,5 +61,6 @@ This document outlines the step-by-step implementation of the Linux EC2 Hardenin
 - Confirmed root password login disabled
 - Validated post-hardening access
 
-Each phase includes screenshots under the `screenshots/` directory.
+[Phase 5 Screenshots](https://github.com/vikasreddy98/AWS-project-linux-ec2-hardening-and-ops/tree/7700012f225fc5b9084cc04aa2067bf27095e05f/screenshots/Phase%205)
+
 
